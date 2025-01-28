@@ -1,0 +1,37 @@
+MAH MCA CET Mock Test
+
+Section A: Mathematics
+
+Question 1:
+Solve the equation: 2x^2 - 5x + 2 = 0. What are the roots?
+a) x = 2, x = 1
+b) x = 2, x = -1
+c) x = 1, x = -2
+d) x = -2, x = 1
+Correct Answer: b)
+
+Question 2:
+If log(base 2)(x) + log(base 2)(x + 8) = 3, find the value of x.
+a) 2
+b) 8
+c) 16
+d) 4
+Correct Answer: a)
+
+Section B: Computer Concepts
+
+Question 3:
+What is the difference between a compiler and an interpreter? Provide examples of programming languages that use each.
+a) A compiler translates code line by line, while an interpreter translates the entire code at once. Examples: C (compiler), Python (interpreter).
+b) A compiler translates the entire code at once, while an interpreter translates code line by line. Examples: Python (compiler), C (interpreter).
+c) Both compilers and interpreters translate code line by line. Examples: Java (compiler), Ruby (interpreter).
+d) Both compilers and interpreters translate the entire code at once. Examples: Java (compiler), Ruby (interpreter).
+Correct Answer: a)
+
+Question 4:
+What is a database index? How does it improve the performance of database queries?
+a) It improves query performance by sorting the tables. 
+b) It improves query performance by creating a sorted copy of the entire database.
+c) It improves query performance by allowing direct access to rows in a table based on specific columns.
+d) It improves query performance by creating a copy of the database in memory.
+Correct Answer: c)

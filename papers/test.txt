@@ -1,0 +1,328 @@
+Permutation and Combination
+
+Section A: Permutation and Combination
+
+Question 1:
+Identify the pattern and complete the series: ACE, FHJ, LMO, __, UYS
+a) QPS
+b) QPR
+c) QPT
+d) QRP
+Correct Answer: b)
+
+Question 2:
+What set of letters should replace the question mark? BC, EF, IJ, MN, __
+a) QR
+b) OP
+c) RS
+d) UV
+Correct Answer: a)
+
+Question 3:
+Find the missing set of letters: ABC, DEFG, HIJK, __, LMNO
+a) KLMN
+b) JKLM
+c) MNOP
+d) JKLJ
+Correct Answer: b)
+
+Question 4:
+Complete the series: PQR, TUV, XYZ, __, HIJ
+a) ABC
+b) DEF
+c) GHI
+d) MNO
+Correct Answer: a)
+
+ChatGPT
+Question 1:
+Evaluate 30!/28!
+a) 970
+b) 870
+c) 770
+d) 670
+Correct Answer: a)
+
+Question 2:
+Evaluate permutation equation P(59,3)
+a) 195052
+b) 195053
+c) 195054
+d) 185054
+Correct Answer: a)
+
+Question 3:
+Evaluate permutation 5P5
+a) 120
+b) 110
+c) 98
+d) 24
+Correct Answer: a)
+
+Question 4:
+Evaluate permutation equation 75P2
+a) 5200
+b) 5300
+c) 5450
+d) 5550
+Correct Answer: a)
+
+Question 5:
+How many words can be formed by using all letters of TIHAR
+a) 100
+b) 120
+c) 140
+d) 160
+Correct Answer: c)
+
+Question 6:
+In how many words can be formed by using all letters of the word BHOPAL
+a) 420
+b) 520
+c) 620
+d) 720
+Correct Answer: a)
+
+Question 7:
+In how many ways can the letters of the word "APPLE" be arranged
+a) 20
+b) 40
+c) 60
+d) 80
+Correct Answer: b)
+
+Question 8:
+In how many ways can the letters of the CHEATER be arranged
+a) 20160
+b) 2520
+c) 360
+d) 80
+Correct Answer: a)
+
+Question 9:
+How many words can be formed from the letters of the word "SIGNATURE" so that vowels always come together
+a) 17280
+b) 4320
+c) 720
+d) 80
+Correct Answer: b)
+
+Question 10:
+In how many ways can the letters of the word "CORPORATION" be arranged so that vowels always come together
+a) 5760
+b) 50400
+c) 2880
+d) None of above
+Correct Answer: a)
+
+Question 11:
+A box contains 4 red, 3 white, and 2 blue balls. Three balls are drawn at random. Find out the number of ways of selecting the balls of different colors
+a) 12
+b) 24
+c) 48
+d) 168
+Correct Answer: b)
+
+Question 12:
+How many words can be formed from the letters of the word "AFTER", so that the vowels never come together
+a) 48
+b) 52
+c) 72
+d) 120
+Correct Answer: c)
+
+Question 13:
+From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?
+a) 564
+b) 645
+c) 735
+d) 756
+Correct Answer: c)
+
+Question 14:
+In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?
+a) 360
+b) 480
+c) 720
+d) 5040
+Correct Answer: a)
+
+Question 15:
+Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?
+a) 210
+b) 1050
+c) 25200
+d) 21400
+Correct Answer: b)
+
+Question 16:
+In how many ways can the letters of the word 'LEADER' be arranged?
+a) 72
+b) 144
+c) 360
+d) 720
+Correct Answer: d)
+
+Question 17:
+In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?
+a) 159
+b) 194
+c) 205
+d) 209
+Correct Answer: c)
+
+Question 18:
+How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7, and 9, which are divisible by 5 and none of the digits is repeated?
+a) 5
+b) 10
+c) 15
+d) 20
+Correct Answer: b)
+
+Question 19:
+In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?
+a) 266
+b) 5040
+c) 11760
+d) 86400
+Correct Answer: c)
+
+Question 20:
+A box contains 2 white balls, 3 black balls, and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?
+a) 32
+b) 48
+c) 64
+d) 96
+Correct Answer: a)
+
+Question 21:
+In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?
+a) 32
+b) 48
+c) 36
+d) 60
+Correct Answer: b)
+
+Question 22:
+In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?
+a) 63
+b) 90
+c) 126
+d) 45
+Correct Answer: c)
+
+Question 23:
+How many 4-letter words with or without meaning, can be formed out of the letters of the word 'LOGARITHMS', if repetition of letters is not allowed?
+a) 40
+b) 400
+c) 5040
+d) 2520
+Correct Answer: d)
+
+Question 24:
+In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?
+a) 10080
+b) 4989600
+c) 120960
+d) None of these
+Correct Answer: a)
+
+Question 25:
+In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?
+a) 120
+b) 720
+c) 4320
+d) 2160
+Correct Answer: c)
+
+Question 26:
+From among 36 teachers in a school, one principal and one vice-principal are to be appointed. In how many ways can this be done?
+a) 1260
+b) 1250
+c) 1240
+d) 1800
+Correct Answer: a)
+
+Question 27:
+A boy has 3 library tickets and 8 books of his interest in the library. Of these 8, he does not want to borrow chemistry part II unless chemistry part I is also borrowed. In how many ways can he choose the three books to be borrowed?
+a) 56
+b) 27
+c) 26
+d) 41
+Correct Answer: b)
+
+Question 28:
+The letters of the word PROMISE are arranged so that no two of the vowels should come together. Find the total number of arrangements.
+a) 49
+b) 1440
+c) 7
+d) 1898
+Correct Answer: b)
+
+Question 29:
+There are 30 people in a group. If all shake hands with one another, how many handshakes are possible?
+a) 870
+b) 435
+c) 30!
+d) 29! + 1
+Correct Answer: a)
+
+Question 30:
+In how many ways can we arrange the word 'FUZZTONE' so that all the vowels come together?
+a) 1440
+b) 6
+c) 2160
+d) 4320
+Correct Answer: a)
+
+Question 31:
+In a Cricket League, in the first round, every team plays a match with every other team. 9 teams participated in the Cricket league. How many matches were played in the first round?
+a) 36
+b) 72
+c) 9!
+d) 9! - 1
+Correct Answer: b)
+
+Question 32:
+How many combinations are possible while selecting four letters from the word 'SMOKEJACK' with the condition that 'J' must appear in it?
+a) 81
+b) 8!/2!
+c) 3!/2!
+d) 41
+Correct Answer: d)
+
+Question 33:
+In a room, there are 2 green chairs, 3 yellow chairs, and 4 blue chairs. In how many ways can Raj choose 3 chairs so that at least one yellow chair is included?
+a) 3
+b) 30
+c) 64
+d) 84
+Correct Answer: d)
+
+Question 34:
+On a railway line, there are 20 stops. A ticket is needed to travel between any 2 stops. How many different tickets would the government need to prepare to cater to all possibilities?
+a) 760
+b) 190
+c) 380
+d) 72
+Correct Answer: a)
+
+Question 35:
+In Daya's bag, there are 3 books of History, 4 books of Science, and 2 books of Maths. In how many ways can Daya arrange the books so that all the books of the same subject are together?
+a) 9
+b) 6
+c) 8640
+d) 1728
+Correct Answer: d)
+
+Question 36:
+A locker in a bank has a 3-digit lock. Mahesh forgot his password and was trying all possible combinations. He took 6 seconds for each try. The problem was that each digit can be from 0 to 9. How much time will be needed by Mahesh to try all the combinations?
+a) 90 minutes
+b) 120 minutes
+c) 60 minutes
+d) 100 minutes
+Correct Answer: b)
+
+
+
+

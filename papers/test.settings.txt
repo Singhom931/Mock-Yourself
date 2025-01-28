@@ -1,0 +1,4 @@
+username = Om Singh
+time(mins) = 90
+positive_marks = 1
+negative_marks = 0

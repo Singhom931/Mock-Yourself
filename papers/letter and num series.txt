@@ -1,0 +1,246 @@
+MAH MCA CET Mock Test
+
+Section A: Letter Series (15 questions)
+
+Question 1:
+Identify the pattern and complete the series: ACE, FHJ, LMO, __, UYS
+a) QPS
+b) QPR
+c) QPT
+d) QRP
+Correct Answer: b)
+
+Question 2:
+What set of letters should replace the question mark? BC, EF, IJ, MN, __
+a) QR
+b) OP
+c) RS
+d) UV
+Correct Answer: a)
+
+Question 3:
+Find the missing set of letters: ABC, DEFG, HIJK, __, LMNO
+a) KLMN
+b) JKLM
+c) MNOP
+d) JKLJ
+Correct Answer: b)
+
+Question 4:
+Complete the series: PQR, TUV, XYZ, __, HIJ
+a) ABC
+b) DEF
+c) GHI
+d) MNO
+Correct Answer: a)
+
+Question 5:
+What set of letters follows in the sequence? KL, NO, RS, __
+a) UV
+b) PQ
+c) WX
+d) YZ
+Correct Answer: c)
+
+Question 6:
+Fill in the missing set of letters: LM, OPQ, TUV, __, CDE
+a) WXY
+b) XYZ
+c) RST
+d) NOP
+Correct Answer: b)
+
+Question 7:
+Identify the pattern and complete the series: ACEG, FHJL, NQPS, __, VXZA
+a) ABCD
+b) WXYZ
+c) QRST
+d) UVWX
+Correct Answer: a)
+
+Question 8:
+What set of letters should replace the question mark? DE, JK, PQ, __, YZ
+a) MN
+b) RS
+c) TU
+d) VW
+Correct Answer: b)
+
+Question 9:
+Complete the series: BEG, HKM, __, QTW, YZC
+a) OPQ
+b) NOS
+c) LNP
+d) JMR
+Correct Answer: c)
+
+Question 10:
+Identify the pattern and complete the series: ADF, JIK, ONP, __, XVU
+a) STR
+b) WZY
+c) QTS
+d) QRT
+Correct Answer: a)
+
+Question 11:
+What set of letters should follow in the sequence? BC, EF, HI, KL, __
+a) NO
+b) MN
+c) PQ
+d) ST
+Correct Answer: b)
+
+Question 12:
+Fill in the missing set of letters: PQT, UYX, __, DEF, HIJ
+a) WZA
+b) RST
+c) LMN
+d) VAB
+Correct Answer: a)
+
+Question 13:
+Identify the pattern and complete the series: ABDF, HJLN, __, VYZB, DFLR
+a) NPRT
+b) NPSV
+c) NPSU
+d) NQRT
+Correct Answer: b)
+
+Question 14:
+What set of letters follows in the sequence? GH, LM, QR, __
+a) UV
+b) ST
+c) OP
+d) WX
+Correct Answer: a)
+
+Question 15:
+Complete the series: BDFH, JLNP, __, TZXV, RQPO
+a) TSXU
+b) TSWU
+c) TSWV
+d) TSYU
+Correct Answer: b)
+
+Section B: Number Series (15 questions)
+
+Question 16:
+Complete the series: 2, 4, 8, 16, __
+a) 20
+b) 24
+c) 32
+d) 28
+Correct Answer: c)
+
+Question 17:
+What number should come next? 5, 10, 15, 20, __
+a) 25
+b) 30
+c) 35
+d) 40
+Correct Answer: a)
+
+Question 18:
+Find the missing number: 3, 6, 9, __, 15
+a) 10
+b) 11
+c) 12
+d) 13
+Correct Answer: c)
+
+Question 19:
+What number should replace the question mark? 13, 16, 19, __
+a) 20
+b) 21
+c) 22
+d) 23
+Correct Answer: d)
+
+Question 20:
+Complete the series: 1, 4, 9, 16, __
+a) 20
+b) 25
+c) 24
+d) 28
+Correct Answer: b)
+
+Question 21:
+What comes next in the sequence? 7, 14, 21, __
+a) 28
+b) 30
+c) 35
+d) 40
+Correct Answer: a)
+
+Question 22:
+Fill in the missing number: 18, 27, __, 45, 54
+a) 32
+b) 36
+c) 38
+d) 30
+Correct Answer: b)
+
+Question 23:
+What number follows in the sequence? 12, 24, 36, __
+a) 44
+b) 48
+c) 54
+d) 56
+Correct Answer: b)
+
+Question 24:
+Complete the series: 5, 10, __, 20, 25
+a) 12
+b) 15
+c) 18
+d) 22
+Correct Answer: b)
+
+Question 25:
+What comes next in the series? 1, 1, 2, 3, 5, __
+a) 6
+b) 7
+c) 8
+d) 9
+Correct Answer: b)
+
+Question 26:
+Find the missing number: 4, 9, 16, __, 36
+a) 21
+b) 25
+c) 29
+d) 24
+Correct Answer: b)
+
+Question 27:
+What number should replace the question mark? 8, 16, 24, __
+a) 32
+b) 30
+c) 36
+d) 28
+Correct Answer: a)
+
+Question 28:
+Complete the series: 6, 12, 18, 24, __
+a) 30
+b) 28
+c) 36
+d) 32
+Correct Answer: a)
+
+Question 29:
+What comes next in the sequence? 2, 4, 8, 16, __
+a) 32
+b) 28
+c) 20
+d) 24
+Correct Answer: a)
+
+Question 30:
+Find the missing number: 1, 8, 27, __, 125
+a) 32
+b) 48
+c) 64
+d) 81
+Correct Answer: d)
+
